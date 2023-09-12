@@ -1,0 +1,4 @@
+Which type of widget did we use for task #4?
+-TextView
+What is the main difference between a TextView widget and an EditText widget?
+-Tv is just to display text while Et is meant for users to enter in text
